@@ -1,4 +1,4 @@
 # devops-aula2
-#Messi
-#Cristiano Ronaldo
-#Neymar
+# Messi
+# Cristiano Ronaldo
+# Neymar
